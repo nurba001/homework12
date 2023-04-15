@@ -24,7 +24,7 @@ public class Person {
         System.out.println(name+" lovey");
     }
 
-    @Autowired
+
     public Person(@Qualifier("cat") Animal animal,@Qualifier("horse") Animal animal1){
         this.animal=animal;
         this.animal1=animal1;
