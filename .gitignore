@@ -1,4 +1,6 @@
 # Project exclude paths
 /target/
-ddd.properties
+
+
 application1.properties
+ad.properties
